@@ -1,0 +1,8 @@
+﻿## Interface: 30300
+## Title: !|cff00ffffAddon Naer|r |cff33ff33[Simple Minimap IconBag]|r
+## Notes: Agrupa todos los iconos de los addons en un contenedor limpio.
+## Author: Zorrorojo/Miabuelita (Guild Sedentarios)
+## Version: 1.0
+## SavedVariables: MinimapIconBagDB
+## X-Part-Of: !|cff00ffffAddon Naer|r
+SMMB.lua
